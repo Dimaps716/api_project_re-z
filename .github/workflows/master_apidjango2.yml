@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'apidjango2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_14873519f7cc4048b1f24cda1e8d4501 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_04b2bcaa0aca480a89e7db80acf62f37 }}
